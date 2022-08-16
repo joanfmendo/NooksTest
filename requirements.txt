@@ -1,0 +1,6 @@
+lightgbm==3.3.2
+nltk==3.7
+numpy==1.21.1
+optuna==2.10.1
+pandas==1.0.3
+scikit-learn==1.1.1
